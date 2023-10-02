@@ -1,0 +1,97 @@
+body  { background-color: rgb(94, 156, 103);
+        margin: auto;
+}
+
+
+  {
+  }
+
+
+
+h1{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+h2{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(0,0,0);
+  font-size: 17px;
+}
+
+.ahaum {   
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25vh;
+}
+
+
+img { 
+     width: 350px;
+     height: auto;
+     float: right;
+     padding: 12px; 
+    }
+
+ .container { 
+    padding: 10px; ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ p{ margin-top: 1%;
+    font-size: 25px;
+    }
+
+
+ .hero{
+        align-items: center;
+
+
+  }
+
+ { }
+
+a {
+    color: rgba(78, 162, 100, 0.904);
+    text-decoration: underline; 
+  }
+  
+  a:hover {
+    color: red;
+    text-decoration: none;
+  }
+
+
+.halo{
+       font-size: 14px;
+}
+
+p{
+   margin-left: 0%;
+   padding-left: 5%;
+}
+
+img { 
+  width: 350px;
+  height: auto;
+  float: left;
+  margin-left: 10px;
+
+}
+
+  .ods{
+    display: flex;
+    justify-content: center;
+  }
+
+footer{
+      background-color: rgb(187, 255, 168) 
+ }
+
+
+
+  
